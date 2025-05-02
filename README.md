@@ -1,2 +1,0 @@
-# OpenLDAP
-https://openldap.org
